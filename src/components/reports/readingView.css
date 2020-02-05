@@ -1,0 +1,25 @@
+.table-custom-styles tbody tr td {
+  font-size: 12px;
+  color: darkblue;
+}
+
+.table-custom-headers tr th {
+  font-size: 12px;
+  color: rgb(22, 82, 30);
+}
+
+.specialDiv {
+  border: 1px solid;
+}
+
+.button {
+  text-align: center;
+  font-size: 12px;
+  padding: 10px 30px;
+  background: darkgreen;
+  border: none;
+  border-radius: 100px 100px 100px 100px;
+  height: 30px;
+  display: inline-block;
+  line-height: 10px;
+}

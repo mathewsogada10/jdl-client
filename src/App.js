@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div
         className="p-3 mb-2"
-        style={{ height: "100vh", background: "#123456" }}
+        style={{ minHeight: "100vh", background: "#123456" }}
       >
         <div>
 
